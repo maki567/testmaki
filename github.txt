@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 //abc
+=======
+//aa
+>>>>>>> branch 'master' of https://github.com/maki567/testmaki.git
